@@ -1,6 +1,3 @@
-<div>
-  ![Logo Taskify](https://www.canva.com/design/DAF3tCPFoRM/KaoSbNmZ7rRaSwQB_V2TNA/edit?utm_content=DAF3tCPFoRM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-</div>
 
 # Descrição do Projeto
 
