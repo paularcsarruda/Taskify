@@ -17,23 +17,23 @@ Instalação
 
 ```git clone https://github.com/alexandresjunior/taskify-api.git```
 
-**No terminal, navegue até o diretório do projeto:**
+No terminal, navegue até o diretório do projeto:
 
 ```cd taskify-api```
 
 
-**Configure o banco de dados: Certifique-se de que um servidor MySQL esteja em execução e crie um banco de dados chamado "taskify".**
+Configure o banco de dados: Certifique-se de que um servidor MySQL esteja em execução e crie um banco de dados chamado "taskify".
 
 ```CREATE DATABASE taskify;```
 
 
-**Configure as propriedades do banco de dados: Se for o caso, edite o arquivo src/main/resources/application.properties e ajuste as configurações de conexão com o servidor MySQL:**
+Configure as propriedades do banco de dados: Se for o caso, edite o arquivo src/main/resources/application.properties e ajuste as configurações de conexão com o servidor MySQL:
 
 ```spring.datasource.url=jdbc:mysql://localhost:3306/taskify```
    spring.datasource.username=seu-usuario
    spring.datasource.password=sua-senha```
 
-**Execute a aplicação:**
+Execute a aplicação:
 
 ```mvn spring-boot:run```
 
