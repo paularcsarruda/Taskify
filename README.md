@@ -60,27 +60,39 @@ A API possui os seguintes **endpoints**:
 
 ### Usuários:
 
-POST /usuarios: Cria um novo usuário.
-GET /usuarios: Lista todos os usuários.
-GET /usuarios/{id}: Obtém informações de um usuário específico.
-PUT /usuarios/{id}: Atualiza as informações de um usuário.
-DELETE /usuarios/{id}: Exclui um usuário.
+```POST /usuarios:``` Cria um novo usuário.
+
+```GET /usuarios:``` Lista todos os usuários.
+
+```GET /usuarios/{id}:``` Obtém informações de um usuário específico.
+
+```PUT /usuarios/{id}:``` Atualiza as informações de um usuário.
+
+```DELETE /usuarios/{id}:``` Exclui um usuário.
 
 ### Tarefas:
 
-POST /tarefas: Cria uma nova tarefa.
-GET /tarefas: Lista todos as tarefas.
-GET /tarefas/{id}: Obtém informações de uma tarefa específica.
-PUT /tarefas/{id}: Atualiza as informações de uma tarefa.
-DELETE /tarefas/{id}: Exclui uma tarefa.
+```POST /tarefas:``` Cria uma nova tarefa.
+
+```GET /tarefas:``` Lista todos as tarefas.
+
+```GET /tarefas/{id}:``` Obtém informações de uma tarefa específica.
+
+```PUT /tarefas/{id}:``` Atualiza as informações de uma tarefa.
+
+```DELETE /tarefas/{id}:``` Exclui uma tarefa.
 
 ### Projetos:
 
-POST /projetos: Cria um novo projeto.
-GET /projetos: Lista todos os projetos.
-GET /projetos/{id}: Obtém informações de um projeto específico.
-PUT /projetos/{id}: Atualiza as informações de um projeto.
-DELETE /projetos/{id}: Exclui um projeto.
+```POST /projetos:``` Cria um novo projeto.
+
+```GET /projetos:``` Lista todos os projetos.
+
+```GET /projetos/{id}:``` Obtém informações de um projeto específico.
+
+```PUT /projetos/{id}:``` Atualiza as informações de um projeto.
+
+```DELETE /projetos/{id}:``` Exclui um projeto.
 
 ## Colaboração
 
