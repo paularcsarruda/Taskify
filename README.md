@@ -29,9 +29,11 @@ Configure o banco de dados: Certifique-se de que um servidor MySQL esteja em exe
 
 Configure as propriedades do banco de dados: Se for o caso, edite o arquivo src/main/resources/application.properties e ajuste as configurações de conexão com o servidor MySQL:
 
-```spring.datasource.url=jdbc:mysql://localhost:3306/taskify```.
-```spring.datasource.username=seu-usuario```.
-```spring.datasource.password=sua-senha```.
+```spring.datasource.url=jdbc:mysql://localhost:3306/taskify```
+
+```spring.datasource.username=seu-usuario```
+
+```spring.datasource.password=sua-senha```
 
 Execute a aplicação:
 
@@ -78,6 +80,6 @@ DELETE /projetos/{id}: Exclui um projeto.
 
 ## Colaboração
 
-O projeto foi desenvolvido durante o curso de Java Web com SpringBoot sob a orientação do professor Alexandre Junior da Treina Recife.
+O projeto foi desenvolvido durante o curso de Java Web com SpringBoot sob a orientação do **professor Alexandre Júnior** da **Treina Recife**.
 
 Github: ```https://github.com/alexandresjunior```
