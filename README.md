@@ -47,8 +47,11 @@ O servidor estará acessível em ```http://localhost:8080``` por padrão.
 O projeto é estruturado da seguinte forma:
 
 ```com.taskify.api.constants```: Constantes utilizadas na aplicação.
+
 ```com.taskify.api.controller```: Controladores para manipular as requisições HTTP.
+
 ```com.taskify.api.model```: Modelos de dados para representar Usuários, Tarefas e Projetos.
+
 ```com.taskify.api.repository```: Repositórios para interação com o banco de dados.
 
 ## Uso da API
