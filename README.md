@@ -29,9 +29,9 @@ Configure o banco de dados: Certifique-se de que um servidor MySQL esteja em exe
 
 Configure as propriedades do banco de dados: Se for o caso, edite o arquivo src/main/resources/application.properties e ajuste as configurações de conexão com o servidor MySQL:
 
-```spring.datasource.url=jdbc:mysql://localhost:3306/taskify```
-```spring.datasource.username=seu-usuario```
-```spring.datasource.password=sua-senha```
+```spring.datasource.url=jdbc:mysql://localhost:3306/taskify```.
+```spring.datasource.username=seu-usuario```.
+```spring.datasource.password=sua-senha```.
 
 Execute a aplicação:
 
